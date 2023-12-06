@@ -111,10 +111,10 @@ int main()
         }
         else {
             cout << "======> Error Invalid Option!" << endl;
-            system("pause")
+            system("pause"); // there was a syntax error in this line and i added a ; 
         }
 
-        system("CLS")
+        system("CLS"); // alos another syntax error which i added a ; 
     }
 
 
